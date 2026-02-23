@@ -1,7 +1,7 @@
 [project]
 name = "house-price-prediction"
 version = "0.1.0"
-description = "Add your description here"
+description = "Production-ready ML system for house price prediction using XGBoost, featuring FastAPI REST API, Streamlit UI, MLflow tracking, and Docker deployment. Achieves 92.1% R² on Ames Housing dataset with 18+ engineered features."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
