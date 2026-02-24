@@ -115,7 +115,7 @@ pip install uv
 **Clone the repository:**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ducquan19/house-price-prediction.git
 cd house-price-prediction
 ```
 
